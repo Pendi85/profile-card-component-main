@@ -97,9 +97,7 @@ ul {
     font-size: 13px;
 }
 
-.label-stats {
-    letter-spacing: 2px;
-}
+
 
 .age {
     margin-left: 5px;
@@ -114,4 +112,10 @@ ul {
 ul li {
     display: inline-block;
     margin: 0 1.56rem 1.9rem 1.56rem;
+}
+
+.label-stats {
+    letter-spacing: 2px;
+    font-size: 10px;
+    margin-top: 0.5rem;
 }
