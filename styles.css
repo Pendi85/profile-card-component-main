@@ -48,6 +48,8 @@ ul {
     width: 100%;
     height: 1px;
     background-color: hsl(0, 0%, 59%);
+    opacity: 25%;
+    
 }
 
 /* TOP CARD */
